@@ -22,7 +22,7 @@ This repository documents my Python programming and data analysis practice using
 - Control flow (if-else, loops)
 - Functions and arithmetic
 - List, string, and number operations
-- Custom programs (e.g. ATM simulator, palindrome checker, leap year validator)
+- Custom programs (e.g. ATM simulator, Tic-Tac-Toe game)
 
 ### 🔹 Classic Exercises
 - FizzBuzz logic
